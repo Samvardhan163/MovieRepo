@@ -1,6 +1,4 @@
 fileignoreconfig:
-  - filename: package-lock.json
-    checksum: 533749a2fb4b841aceb02719adf1a16f2e1a3bb7c6fe2384388de884850f6e45
-  - filename: src/App.js
-    checksum: b6a8c415dcc46343cbd2ca57e147629c13a5d4c1446e7e3183754128fa8a7eff
+  - filename: images/Screenshot 2022-05-26 at 12.15.28 AM.png
+    checksum: 6a6503c2cdfafd2d1529990d7661a6def6880a65837cc414cfb652c9a450127e
 version: ""
